@@ -9,6 +9,41 @@ DOMAIN-SUFFIX,hao123.com
 # 域名关键字匹配
 DOMAIN-KEYWORD,baidu
 
+# PT站点
+DOMAIN-SUFFIX,m-team.cc
+DOMAIN-SUFFIX,m-team.io
+DOMAIN-SUFFIX,ourbits.club
+DOMAIN-SUFFIX,hdhome.org
+DOMAIN-SUFFIX,hdarea.club
+DOMAIN-SUFFIX,qingwa.pro
+DOMAIN-SUFFIX,qingwapt.com
+DOMAIN-SUFFIX,qingwapt.org
+DOMAIN-SUFFIX,crabpt.vip
+DOMAIN-SUFFIX,hdatmos.club
+DOMAIN-SUFFIX,hdfans.org
+DOMAIN-SUFFIX,cyanbug.net
+DOMAIN-SUFFIX,ptchdbits.co
+DOMAIN-SUFFIX,pterclub.com
+DOMAIN-SUFFIX,audiences.me
+DOMAIN-SUFFIX,hhanclub.top
+DOMAIN-SUFFIX,hddolby.com
+DOMAIN-SUFFIX,hdvideo.one
+DOMAIN-SUFFIX,totheglory.im
+DOMAIN-SUFFIX,keepfrds.com
+DOMAIN-SUFFIX,tjupt.org
+# DOMAIN-SUFFIX,star-space.net
+DOMAIN-SUFFIX,agsvpt.com
+DOMAIN-SUFFIX,ubits.club
+DOMAIN-SUFFIX,leaves.red
+DOMAIN-SUFFIX,piggo.me
+DOMAIN-SUFFIX,hdkyl.in
+DOMAIN-SUFFIX,hdtime.org
+DOMAIN-SUFFIX,
+DOMAIN-SUFFIX,zmpt.cc
+DOMAIN-SUFFIX,
+DOMAIN-SUFFIX,
+DOMAIN-SUFFIX,
+
 # IP段匹配
 IP-CIDR,219.146.1.66/32,no-resolve
 
