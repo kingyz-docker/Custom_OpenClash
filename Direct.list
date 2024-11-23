@@ -38,11 +38,15 @@ DOMAIN-SUFFIX,leaves.red
 DOMAIN-SUFFIX,piggo.me
 DOMAIN-SUFFIX,hdkyl.in
 DOMAIN-SUFFIX,hdtime.org
-DOMAIN-SUFFIX,
+# DOMAIN-SUFFIX,zhuque.in
 DOMAIN-SUFFIX,zmpt.cc
-DOMAIN-SUFFIX,
-DOMAIN-SUFFIX,
-DOMAIN-SUFFIX,
+# DOMAIN-SUFFIX,monikadesign.uk
+DOMAIN-SUFFIX,carpt.net
+DOMAIN-SUFFIX,pthome.net
+DOMAIN-SUFFIX,qhstudio.fun
+DOMAIN-SUFFIX,lemonhd.club
+DOMAIN-SUFFIX,njtupt.top
+DOMAIN-SUFFIX,invites.fun
 
 # IP段匹配
 IP-CIDR,219.146.1.66/32,no-resolve
