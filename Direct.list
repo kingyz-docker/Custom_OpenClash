@@ -47,6 +47,8 @@ DOMAIN-SUFFIX,qhstudio.fun
 DOMAIN-SUFFIX,lemonhd.club
 DOMAIN-SUFFIX,njtupt.top
 DOMAIN-SUFFIX,invites.fun
+DOMAIN-SUFFIX,916633600.xyz
+DOMAIN-SUFFIX,693914.xyz
 
 # IP段匹配
 IP-CIDR,219.146.1.66/32,no-resolve
@@ -63,7 +65,6 @@ IP-CIDR,180.76.76.76/32,no-resolve
 IP-CIDR,114.114.114.114/32,no-resolve
 IP-CIDR,114.114.115.115/32,no-resolve
 
-
 # 360
 DOMAIN-SUFFIX,360.com
 DOMAIN-SUFFIX,360kuai.com
@@ -73,7 +74,6 @@ DOMAIN-SUFFIX,qhres.com
 DOMAIN-SUFFIX,qhstatic.com
 DOMAIN-SUFFIX,qhupdate.com
 DOMAIN-SUFFIX,so.com
-
 
 # 58
 DOMAIN-SUFFIX,58.com
@@ -201,7 +201,6 @@ DOMAIN-SUFFIX,cctv.com
 DOMAIN-SUFFIX,cctvpic.com
 DOMAIN-SUFFIX,livechina.com
 
-
 # HuaWei
 DOMAIN-SUFFIX,dbankcdn.com
 DOMAIN-SUFFIX,hc-cdn.com
@@ -213,7 +212,6 @@ DOMAIN-SUFFIX,huaweishop.net
 DOMAIN-SUFFIX,hwccpc.com
 DOMAIN-SUFFIX,vmall.com
 DOMAIN-SUFFIX,vmallres.com
-
 
 # Iqiyi
 DOMAIN-SUFFIX,71.am
@@ -347,17 +345,14 @@ DOMAIN-SUFFIX,tenpay.com
 DOMAIN-SUFFIX,wechat.com
 DOMAIN-SUFFIX,weixin.com
 DOMAIN-SUFFIX,weiyun.com
-
 # Vip 唯品会
 DOMAIN-SUFFIX,appsimg.com
 DOMAIN-SUFFIX,appvipshop.com
 DOMAIN-SUFFIX,vip.com
 DOMAIN-SUFFIX,vipstatic.com
-
 # Ximalaya 喜马拉雅
 DOMAIN-SUFFIX,ximalaya.com
 DOMAIN-SUFFIX,xmcdn.com
-
 # Xunlei 迅雷
 DOMAIN-SUFFIX,00cdn.com
 DOMAIN-SUFFIX,88cdn.com
@@ -367,8 +362,6 @@ DOMAIN-SUFFIX,p2cdn.com
 DOMAIN-SUFFIX,sandai.net
 DOMAIN-SUFFIX,thundercdn.com
 DOMAIN-SUFFIX,xunlei.com
-
-
 # Public Direct CDN 公共直连
 #DOMAIN-SUFFIX,ajax.aspnetcdn.com
 #DOMAIN-SUFFIX,ajax.cloudflare.com
@@ -379,9 +372,6 @@ DOMAIN-SUFFIX,bootcss.com
 DOMAIN-SUFFIX,jiasule.com
 DOMAIN-SUFFIX,staticfile.org
 DOMAIN-SUFFIX,upaiyun.com
-
-
-
 # AccelerateDirectSites
 DOMAIN-SUFFIX,10010.com
 DOMAIN-SUFFIX,115.com
@@ -624,7 +614,6 @@ DOMAIN-SUFFIX,zhimg.com
 DOMAIN-SUFFIX,zhipin.com
 DOMAIN-SUFFIX,zhongsou.com
 DOMAIN-SUFFIX,zhuihd.com
-
 # ImmortalWrt 在线更新服务
 DOMAIN-SUFFIX,sysupgrade.kyarucloud.moe
 # ImmortalWrt 软件仓库
