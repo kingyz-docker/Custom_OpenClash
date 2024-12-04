@@ -49,6 +49,7 @@ DOMAIN-SUFFIX,njtupt.top
 DOMAIN-SUFFIX,invites.fun
 DOMAIN-SUFFIX,916633600.xyz
 DOMAIN-SUFFIX,693914.xyz
+DOMAIN-SUFFIX,springsunday.net
 
 # IP段匹配
 IP-CIDR,219.146.1.66/32,no-resolve
