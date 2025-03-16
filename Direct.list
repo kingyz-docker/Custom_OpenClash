@@ -12,49 +12,49 @@ DOMAIN,v4.plex.tv
 DOMAIN-KEYWORD,baidu
 
 # PT站点
-DOMAIN-SUFFIX,ug.link
-DOMAIN-SUFFIX,m-team.cc
-DOMAIN-SUFFIX,m-team.io
-DOMAIN-SUFFIX,ourbits.club
-DOMAIN-SUFFIX,hdhome.org
-DOMAIN-SUFFIX,hdarea.club
-DOMAIN-SUFFIX,qingwa.pro
-DOMAIN-SUFFIX,qingwapt.com
-DOMAIN-SUFFIX,qingwapt.org
-DOMAIN-SUFFIX,crabpt.vip
-DOMAIN-SUFFIX,hdatmos.club
-DOMAIN-SUFFIX,hdfans.org
-DOMAIN-SUFFIX,cyanbug.net
-DOMAIN-SUFFIX,ptchdbits.co
-DOMAIN-SUFFIX,pterclub.com
-DOMAIN-SUFFIX,audiences.me
-DOMAIN-SUFFIX,hhanclub.top
-DOMAIN-SUFFIX,hddolby.com
-DOMAIN-SUFFIX,hdvideo.one
-DOMAIN-SUFFIX,totheglory.im
-DOMAIN-SUFFIX,keepfrds.com
-DOMAIN-SUFFIX,tjupt.org
+# DOMAIN-SUFFIX,ug.link
+# DOMAIN-SUFFIX,m-team.cc
+# DOMAIN-SUFFIX,m-team.io
+# DOMAIN-SUFFIX,ourbits.club
+# DOMAIN-SUFFIX,hdhome.org
+# DOMAIN-SUFFIX,hdarea.club
+# DOMAIN-SUFFIX,qingwa.pro
+# DOMAIN-SUFFIX,qingwapt.com
+# DOMAIN-SUFFIX,qingwapt.org
+# DOMAIN-SUFFIX,crabpt.vip
+# DOMAIN-SUFFIX,hdatmos.club
+# DOMAIN-SUFFIX,hdfans.org
+# DOMAIN-SUFFIX,cyanbug.net
+# DOMAIN-SUFFIX,ptchdbits.co
+# DOMAIN-SUFFIX,pterclub.com
+# DOMAIN-SUFFIX,audiences.me
+# DOMAIN-SUFFIX,hhanclub.top
+# DOMAIN-SUFFIX,hddolby.com
+# DOMAIN-SUFFIX,hdvideo.one
+# DOMAIN-SUFFIX,totheglory.im
+# DOMAIN-SUFFIX,keepfrds.com
+# DOMAIN-SUFFIX,tjupt.org
 # DOMAIN-SUFFIX,star-space.net
-DOMAIN-SUFFIX,agsvpt.com
-DOMAIN-SUFFIX,ubits.club
-DOMAIN-SUFFIX,leaves.red
-DOMAIN-SUFFIX,piggo.me
-DOMAIN-SUFFIX,hdkyl.in
-DOMAIN-SUFFIX,hdtime.org
+# DOMAIN-SUFFIX,agsvpt.com
+# DOMAIN-SUFFIX,ubits.club
+# DOMAIN-SUFFIX,leaves.red
+# DOMAIN-SUFFIX,piggo.me
+# DOMAIN-SUFFIX,hdkyl.in
+# DOMAIN-SUFFIX,hdtime.org
 # DOMAIN-SUFFIX,zhuque.in
-DOMAIN-SUFFIX,zmpt.cc
+# DOMAIN-SUFFIX,zmpt.cc
 # DOMAIN-SUFFIX,monikadesign.uk
-DOMAIN-SUFFIX,carpt.net
-DOMAIN-SUFFIX,pthome.net
-DOMAIN-SUFFIX,qhstudio.fun
-DOMAIN-SUFFIX,lemonhd.club
-DOMAIN-SUFFIX,njtupt.top
-DOMAIN-SUFFIX,invites.fun
-DOMAIN-SUFFIX,916633600.xyz
-DOMAIN-SUFFIX,693914.xyz
-DOMAIN-SUFFIX,springsunday.net
-DOMAIN-SUFFIX,hdsky.me
-DOMAIN-SUFFIX,sunnypt.top
+# DOMAIN-SUFFIX,carpt.net
+# DOMAIN-SUFFIX,pthome.net
+# DOMAIN-SUFFIX,qhstudio.fun
+# DOMAIN-SUFFIX,lemonhd.club
+# DOMAIN-SUFFIX,njtupt.top
+# DOMAIN-SUFFIX,invites.fun
+# DOMAIN-SUFFIX,916633600.xyz
+# DOMAIN-SUFFIX,693914.xyz
+# DOMAIN-SUFFIX,springsunday.net
+# DOMAIN-SUFFIX,hdsky.me
+# DOMAIN-SUFFIX,sunnypt.top
 
 # IP段匹配
 IP-CIDR,219.146.1.66/32,no-resolve
